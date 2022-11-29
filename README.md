@@ -157,11 +157,6 @@
 
 > Other
 
-
-## :package: Packages
-
-- [lodash-omitdeep](https://www.npmjs.com/package/lodash-omitdeep)
-
 ## :comet: Contact
 
 <a href="#debabin-title">
