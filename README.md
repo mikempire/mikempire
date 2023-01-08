@@ -164,7 +164,7 @@
 </a>
 
 - :comet: &nbsp;**[Github](https://github.com/mikempire)**
-- :airplane: &nbsp;**[Telegram](https://t.me/-)**
+- :airplane: &nbsp;**[Telegram](https://t.me/morkOfOrk)**
 - :camera: &nbsp;**[Instagram](https://www.instagram.com/mikeempire/)**
 
 <br>
