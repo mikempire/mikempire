@@ -161,8 +161,12 @@
 
 ## :comet: Contact
 
-- :comet: &nbsp;**[Github](https://github.com/mikempire)**
-- :airplane: &nbsp;**[Telegram](https://t.me/morkOfOrk)**
-- :camera: &nbsp;**[Instagram](https://www.instagram.com/mikeempire/)**
-
+<a target="_blank" href="https://t.me/morkOfOrk">
+    <img src="https://img.shields.io/badge/Telegram-1f1f1f?style=flat-square&logo=Telegram&labelColor=1f1f1f"/>
+</a>
+<a target="_blank" href="mailto:iammike182@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-1f1f1f?style=flat-square&logo=Gmail&labelColor=1f1f1f"/>
+</a>
 <br>
+<br>
+
