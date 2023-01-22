@@ -3,15 +3,9 @@
 
 
 <h4 align="left">I'm a Junior Frontend Developer ✨</h4>
-
-<a href="#debabin-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikempire&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="debabin" align="right" />
-</a>
-
 <br>
 
 <h2 align="left" id="debabin-stack">Tech stack</h2>
-
 > General
 
 <table width='100%'>
@@ -155,13 +149,15 @@
   </tr> 
 </table>
 
-> Other
-
+<details>
+  <summary>Статистика</summary>
+  <p>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mikempire&show_icons=true&theme=radical" />
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mikempire&theme=radical&layout=compact" />
+  </p>
+</details>
+<br>
 ## :comet: Contact
-
-<a href="#debabin-title">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikempire&show_icons=true&locale=en&layout=compact&theme=react" alt="debabin" />
-</a>
 
 - :comet: &nbsp;**[Github](https://github.com/mikempire)**
 - :airplane: &nbsp;**[Telegram](https://t.me/morkOfOrk)**
