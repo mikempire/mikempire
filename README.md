@@ -1,5 +1,7 @@
-<h1 align="left">:wave: Hello there! I'm Mikhail Zagaynov</h1>
+<h1 align="center">Hello, I'm Mikhail Zagaynov 👋</h1>
 
+<h4 align="center">I'm a Junior Frontend Developer ✨</h4>
+<br>
 
 
 <h4 align="left">I'm a Junior Frontend Developer ✨</h4>
