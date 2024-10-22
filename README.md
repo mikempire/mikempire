@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Mikhail Zagaynov 👋</h1>
 
-<h4 align="center">I'm a Junior Frontend Developer ✨</h4>
+<h4 align="center">I'm Frontend Developer ✨</h4>
 <br>
 
 <h2 align="left" id="debabin-stack">Tech stack</h2>
